@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Esmes\\cs1720\\Project2\\lib\\painter-canvas-complete.jar",
+        "lib/painter-canvas-17.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}
